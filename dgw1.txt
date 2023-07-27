@@ -3,3 +3,6 @@ welcom to my first file
 
   registration
   
+added save button
+
+added close button
